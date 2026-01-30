@@ -1,6 +1,6 @@
 ## Anomaly detection from timeseries data
 
-This repository includes main source codes for our paper "A Computationally Inexpensive Method for Anomaly Detection in Maritime Trajectories from AIS Dataset".
+This repository includes main source codes for our paper "A Computationally Inexpensive Method for Anomaly Detection in Maritime Trajectories from AIS Dataset". https://link.springer.com/chapter/10.1007/978-3-031-54053-0_22
 
 ## Citation
 ```bibtex
